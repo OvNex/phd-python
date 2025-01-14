@@ -42,23 +42,23 @@ Once done, you should read this while being in a codespace environment (if not g
 Let's now try a [basic program](nicejob.ipynb)
 
 1. Language fundamentals
-    * [Basic types and variables](fundamentals/types-variables/tutorial.ipynb)
-    * [Data structures 1: lists and tuples](fundamentals/data-structures1/tutorial.ipynb)
-    * [Data structures 2: dictionaries and sets](fundamentals/data-structures2/tutorial.ipynb)
-    * [Logic tests and conditions](fundamentals/tests/tutorial.ipynb)
-    * [Loops](fundamentals/loops/tutorial.ipynb)
-    * [Functions](fundamentals/functions/tutorial.ipynb)
-    * [Notions of object-oriented programming](fundamentals/oop/tutorial.ipynb)
+    * [Basic types and variables](fundamentals/types-variables/tutorial_en.ipynb)
+    * [Data structures 1: lists and tuples](fundamentals/data-structures1/tutorial_en.ipynb)
+    * [Data structures 2: dictionaries and sets](fundamentals/data-structures2/tutorial_en.ipynb)
+    * [Logic tests and conditions](fundamentals/tests/tutorial_en.ipynb)
+    * [Loops](fundamentals/loops/tutorial_en.ipynb)
+    * [Functions](fundamentals/functions/tutorial_en.ipynb)
+    * [Notions of object-oriented programming](fundamentals/oop/tutorial_en.ipynb)
 
 2. Data manipulation
-    * [File handling](manipulation/modules-files/tutorial.ipynb)
-    * [Working with CSV and JSON files](manipulation/csv-json-files/tutorial.ipynb)
-    * [Numerical calculation with NumPy](manipulation/numpy/tutorial.ipynb)
-    * [Processing tabular data with Pandas](manipulation/pandas/tutorial.ipynb)
-    * [Introduction to data visualization](manipulation/dataviz/tutorial.ipynb)
+    * [File handling](manipulation/modules-files/tutorial_en.ipynb)
+    * [Working with CSV and JSON files](manipulation/csv-json-files/tutorial_en.ipynb)
+    * [Numerical calculation with NumPy](manipulation/numpy/tutorial_en.ipynb)
+    * [Processing tabular data with Pandas](manipulation/pandas/tutorial_en.ipynb)
+    * [Introduction to data visualization](manipulation/dataviz/tutorial_en.ipynb)
 
 3. Projets
-    * [Project 1 - Power4](projects/puissance4/tutorial.ipynb)
-    * [Project 2 - Weather forecasts](projects/meteo/tutorial.ipynb)
-    * [Project 3 - Census-based population estimates](projects/RP/tutorial.ipynb)
+    * [Project 1 - Power4](projects/puissance4/tutorial_en.ipynb)
+    * [Project 2 - Weather forecasts](projects/meteo/tutorial_en.ipynb)
+    * [Project 3 - Census-based population estimates](projects/RP/tutorial_en.ipynb)
 
