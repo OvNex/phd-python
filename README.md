@@ -17,6 +17,8 @@ Essayons maintenant [un programme basique](bienjoue.ipynb)
     * [Boucles](fundamentals/loops/tutorial.ipynb)
     * [Fonctions](fundamentals/functions/tutorial.ipynb)
     * [Notions de programmation orientée objet](fundamentals/oop/tutorial.ipynb)
+        * [Xavier Blanc training on OOP ](https://www.youtube.com/playlist?list=PLuNTRFkYD3u6hdYBgQ4qWbP-vgrKUukSS)
+
 
 2. Manipulation de données
     * [Manipulation de fichiers](manipulation/modules-files/tutorial.ipynb)
@@ -49,6 +51,7 @@ Let's now try a [basic program](nicejob.ipynb)
     * [Loops](fundamentals/loops/tutorial_en.ipynb)
     * [Functions](fundamentals/functions/tutorial_en.ipynb)
     * [Notions of object-oriented programming](fundamentals/oop/tutorial_en.ipynb)
+        * [Xavier Blanc training on OOP ](https://www.youtube.com/playlist?list=PLuNTRFkYD3u6hdYBgQ4qWbP-vgrKUukSS)
 
 2. Data manipulation
     * [File handling](manipulation/modules-files/tutorial_en.ipynb)
